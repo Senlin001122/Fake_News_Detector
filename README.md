@@ -1,3 +1,5 @@
+**FakeNewsDetector**
+
 This repository contains all the necessary code and resources for developing a machine learning-based system The project is structured into several phases, including data acquisition, preprocessing, model training, and system development using a web framework. that can identify and classify news articles as real or fake.
 
 Project Overview: The Fake News Detection System is designed to provide a reliable and efficient solution for identifying fake news articles. Using a machine learning model trained on a comprehensive dataset of labeled news articles, the system can analyze both text input and web URLs to predict the authenticity of news content. The final product is a user-friendly web application that displays the prediction results along with confidence scores.
