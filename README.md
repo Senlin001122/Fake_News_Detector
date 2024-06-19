@@ -1,4 +1,4 @@
-# Fake_News_Detector
+# Fake_News_Detector假新闻探测器
 
 This repository contains all the necessary code and resources for developing a machine learning-based system The project is structured into several phases, including data acquisition, preprocessing, model training, and system development using a web framework. that can identify and classify news articles as real or fake.
 
@@ -9,6 +9,7 @@ Features: Data Acquisition and Preprocessing: Gathered and cleaned a dataset of 
 Highlights: Accurate Predictions: Achieved high accuracy, precision, recall, and F1-score in detecting fake news. User-Friendly Interface: Simple and intuitive web interface for easy interaction. Real-Time URL Analysis: Fetches and analyzes content from web URLs to provide instant predictions. Comprehensive Documentation: Detailed project report and code documentation included.
 
 CREATED BY MUHAMMAD HANIF MURTAZA AND YANG ZIXUN
+
 该存储库包含开发基于机器学习的系统所需的所有代码和资源。该项目分为几个阶段，包括数据采集、预处理、模型训练和使用 Web 框架的系统开发。可以识别新闻文章并将其分类为真实或虚假。
 
 项目概述：假新闻检测系统旨在为识别假新闻文章提供可靠且高效的解决方案。使用在标记新闻文章的综合数据集上训练的机器学习模型，系统可以分析文本输入和网页 URL，以预测新闻内容的真实性。最终产品是一个用户友好的 Web 应用程序，显示预测结果以及置信度分数。
